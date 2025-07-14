@@ -12,5 +12,5 @@ I love tackling real-world problems through code, driving innovation, and leadin
 
 # 📫 Get in Touch
 
-- [LinkedIn](linkedin.com/in/arthur-torres-de-lucena-029068375)  
+- [LinkedIn](https://www.linkedin.com/in/arthur-torres-de-lucena-029068375/)  
 - Email: arthur.torresdl03@gmail.com  
