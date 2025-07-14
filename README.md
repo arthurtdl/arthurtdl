@@ -1,7 +1,21 @@
-## Hi there 👋
+# 👋 About Me
 
-<!-- Cartão de estatísticas gerais -->
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I’m Arthur, a Computer Science student at UFPE and Software Developer at CITi UFPE.  
+I love tackling real-world problems through code, driving innovation, and leading tech teams to build impact.  
 
-<!-- Cartão de linguagens mais usadas -->
+---
+
+# 📊 GitHub Stats
+
+[![Arthur’s GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seuusuario&theme=radical)](https://git.io/streak-stats)
+
+---
+
+# 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-torres-029068375/)  
+- Email: arthur.torresdl03@gmail.com  
